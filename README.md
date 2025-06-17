@@ -28,8 +28,5 @@ Permainan ini juga menampilkan jumlah bom di sekitar sel yang aman (seperti game
 
 ---
 
-## 🚀 Cara Menjalankan Program
+## 🚀 
 
-### Compile:
-```bash
-g++ minesweeper_lite.cpp -o minesweeper
