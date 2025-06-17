@@ -27,6 +27,7 @@ Permainan ini juga menampilkan jumlah bom di sekitar sel yang aman (seperti game
 - Tampilan papan sebelum dan sesudah game
 
 ---
+HASIL OUTPUT : https://drive.google.com/drive/folders/1b-h0XjLmZCKPZJ8h1uVwjjjInjxixdj3?usp=drive_link
 
 ## 🚀 
 
